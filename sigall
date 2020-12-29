@@ -1,0 +1,5 @@
+#! /bin/zsh
+
+pkill dwmblocks -RTMIN+1
+pkill dwmblocks -RTMIN+2
+pkill dwmblocks -RTMIN+3
